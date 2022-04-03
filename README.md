@@ -1,0 +1,1 @@
+#a basic portfolio created with NextJS. Uses the neumorphic style. 
