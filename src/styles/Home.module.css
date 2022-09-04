@@ -148,6 +148,7 @@
 
 .workContainer img {
   max-width: 100%;
+  flex: 1;
 }
 
 .workContainer_content {
@@ -197,9 +198,10 @@
     text-align: center;
     margin-bottom: 1rem;
   }
-  /* .workContainer {
-    flex-direction: row;
-    width: 100%;
-  } */
+  
+  .work {
+    flex: column;
+  }
+
 };
 
